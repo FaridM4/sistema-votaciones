@@ -53,7 +53,7 @@ define('NOTIFICAR_VOTOS', true);
 
 ### 4. Credenciales iniciales
 
-- **Email:** admin@votaciones.com
+- **Email:** farid.mlz.04@gmail.com
 - **Contraseña:** password (hash bcrypt predefinido)
 
 ** IMPORTANTE:** Cambiar la contraseña después del primer login.
