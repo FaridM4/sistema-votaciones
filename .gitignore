@@ -1,0 +1,25 @@
+# Archivos sensibles
+includes/mail_config.php
+vendor/
+
+# Dependencias
+node_modules/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.swp
+
+# IDE
+.idea/
+.vscode/
+
+# Variables de entorno
+.env
+.env.local
